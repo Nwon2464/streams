@@ -1,0 +1,24 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "This is a greate Stream",
+      "id": 1
+    },
+    {
+      "title": "My stream",
+      "description": "This is a great gerat stream",
+      "id": 2
+    },
+    {
+      "title": "I created This stream",
+      "description": "HAHAHa",
+      "id": 3
+    },
+    {
+      "title": "navigation",
+      "description": "you should not see this on the form pagelksadjflkasjdfjasfjklas",
+      "id": 8
+    }
+  ]
+}
